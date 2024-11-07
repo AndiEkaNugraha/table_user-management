@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  background-color: rgb(12, 10, 29);
+  scrollbar-width: thin;
+  scrollbar-color: rgb(252, 252, 252) rgb(30, 27, 75);
+  scroll-behavior: smooth;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.max-w-container {
+  max-width: 85rem;
+  padding: 10px;
+  margin: 0 auto;
+}

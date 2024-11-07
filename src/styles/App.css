@@ -1,0 +1,23 @@
+/* .th, .td.pin-left {
+   text-align: center!important;
+   color: white  ;
+} */
+.th {
+   border-bottom: unset!important;
+   box-shadow: 6px 1px 7px 1px rgb(0, 0, 0, .5);
+}
+.td{
+   color: white  ;
+   border-bottom: unset!important;
+   box-shadow: 5px 8px 9px 1px rgb(0, 0, 0, .5);;
+}
+
+/* .th.pin-left, .td.pin-left {
+   background-color: rgb(12, 10, 29)!important;
+} */
+/* .th, .td{
+   background-color: rgb(22, 19, 54)!important;
+} */
+.css-cz6xlx div {
+   margin-left: auto;
+}
